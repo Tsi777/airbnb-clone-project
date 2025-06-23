@@ -12,3 +12,10 @@ This project aims to replicate the functionalities of the popular lodging platfo
 - **Database**: MySQL
 - **Containerization**: Docker
 - **CI/CD**: GitHub Actions
+## Team Roles
+
+### Backend Developer
+Responsible for server-side application logic and integration with the front end.
+
+### Database Administrator
+Manages the database and ensures data integrity and performance.
